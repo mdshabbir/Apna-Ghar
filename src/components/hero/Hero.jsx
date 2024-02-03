@@ -20,7 +20,7 @@ const Hero = () => {
             <span className="SecondryText">
               Find a variety of properties that suit you very easilty
             </span>
-            <span className="SecondryText">
+            <span className="secondaryText">
               Forget all difficulties in finding a residence for you
             </span>
           </div>
@@ -36,17 +36,16 @@ const Hero = () => {
                 <span>+</span>
               </span>
 
-              <span className="SecondryText">Premium Product</span>
+              <span className="secondaryText">Premium Product</span>
             </div>
-          </div>
-          <div className="flexCenter stats">
+
             <div className="flexColCenter stat">
               <span>
                 <CountUp start={1950} end={2000} duration={4} />
                 <span>+</span>
               </span>
 
-              <span className="SecondryText">Happy Customer</span>
+              <span className="secondaryText">Happy Customer</span>
             </div>
             <div className="flexColCenter stat">
               <span>
@@ -54,7 +53,7 @@ const Hero = () => {
                 <span>+</span>
               </span>
 
-              <span className="SecondryText">Award Win</span>
+              <span className="secondaryText">Award Win</span>
             </div>
           </div>
         </div>
